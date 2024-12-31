@@ -1,5 +1,6 @@
 # STOR 320 Final Paper - Modeling FEMA Aid Distribution and COVID-19 Impact
 
+## https://bhurtyalkritan.github.io/FemaDataAnalysis/
 ## Introduction
 
 This repository contains the final paper and analysis for the STOR 320 course, focusing on modeling and optimizing disaster response and aid distribution by the Federal Emergency Management Agency (FEMA). The paper explores two primary research questions:
